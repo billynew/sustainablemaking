@@ -2,21 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Future Paradigms for Sustainable Making
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
+#   address: >
+#     <p>555 your office number</p>
+#     <p>123 your address street</p>
+#     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 This workshop provides the first opportunity for the UIST community to discuss sustainability challenges and opportunities in rapid prototyping. We will discuss key issues such as waste generation from intermediate prototypes, strategies for sustainable materials, circular prototyping (e.g., promoting re-use of components), knowledge sharing infrastructures (e.g., open-sourcing hardware), and so forth. The goal is to identify potential HCI research directions that can foster a more sustainable "making" environment inside of labs and beyond.
