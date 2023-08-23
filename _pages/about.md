@@ -38,7 +38,7 @@ This workshop aims to explore the sustainability issues linked with rapid protot
 The workshop will consist of keynotes, demos, hands-on building, and brainstorming sessions, divided into six distinct activities.
 
 #### Activity 1 Opening and short keynotes (9:00-10:00)
-Our workshop begins with a short introductory session, followed by three 20-minute keynotes. Potential topics range from research projects on new materials, tools, and systems for rapid prototyping, to their own perspectives on sustainable making. We expect to host three keynote speakers and have already sent out invitations to Prof. Eric Paulos, Prof. Gregory Abowd, and Prof. Kristin Williams; we are currently awaiting confirmation.
+Our workshop begins with a short introductory session, followed by three 20-minute keynotes. Potential topics range from research projects on new materials, tools, and systems for rapid prototyping, to their own perspectives on sustainable making. We expect to host three keynote speakers at the workshop.
 
 #### Activity 2 Demo Presenting current sustainability practice (10:00- 11:00). 
 
