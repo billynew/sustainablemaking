@@ -1,12 +1,12 @@
 ---
 layout: about
-title: 
+title: Future Paradigms for Sustainable Making
 permalink: /
 subtitle:
 
 # profile:
 #   align: right
-#   image: prof_pic.jpg
+#   image: header.png
 #   image_circular: false # crops the image to make it circular
 #   address: >
 #     <p>555 your office number</p>
@@ -19,12 +19,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-
+{% include figure.html path="assets/img/header-cropped.png" class="img-fluid rounded z-depth-1" %}
 
 
 Rapid prototyping has been a major research thrust in HCI and UIST, but the sustainability impact of rapid prototyping has not been thoroughly discussed.
 
 This workshop will offer the UIST community its first opportunity to discuss the sustainability challenges and the research opportunities associated with sustainable rapid prototyping. We will explore key issues such as waste generation from intermediate prototypes, strategies for using sustainable materials, and circular prototyping (e.g., promoting the reuse of components). Additionally, we'll delve into knowledge-sharing infrastructures like open-sourcing hardware. Our objective is to pinpoint potential HCI research avenues that promote a more sustainable 'making' environment both inside labs and in wider contexts.
+
+**This workshop will be held on-site as part of UIST on Sunday, October 29th. To join us, register for our workshop during [UIST registration](https://web.cvent.com/event/084853b8-9ccc-43ee-8438-78e1a744b086/summary).** Note: you do not need to submit any work prior to joining! Participation is open to anyone as long as they register. 
 
 
 ## Background and Goal
@@ -35,37 +37,19 @@ The development of new products through rapid prototyping inevitably produces a 
 This workshop aims to explore the sustainability issues linked with rapid prototyping and pinpoint HCI research paths for more sustainable "making" processes.
 
 ## Agenda
-The workshop will consist of keynotes, demos, hands-on building, and brainstorming sessions, divided into six distinct activities.
+The workshop will consist of keynotes, demos, hands-on building, and brainstorming sessions, divided into six distinct activities. (More details to follow!)
 
-#### Activity 1 Opening and short keynotes (9:00-10:00)
-Our workshop begins with a short introductory session, followed by three 20-minute keynotes. Potential topics range from research projects on new materials, tools, and systems for rapid prototyping, to their own perspectives on sustainable making. We expect to host three keynote speakers at the workshop.
+| Activity    | Time (PDT) |
+| -------- | ------- |
+| Opening & Keynotes  | 9:00-10:00   |
+| Speed-Networking Activity | 10:00-11:00     |
+| Collaborative Making Activity    | 11:00-12:30    |
+| LUNCH BREAK    | 12:30-13:30    |
+| Brainstorm: Tools for sustainable making    | 13:30-15:00    |
+| Brainstorm: Sustainable making at scale   | 15:00-16:00    |
+| Closing & Future Plans | 16:00-17:00    |
 
-#### Activity 2 Demo Presenting current sustainability practice (10:00- 11:00). 
-
-Primed by the keynotes, the organizers will initiate a modified speed-dating activity. In this activity, participants will meet in pairs or triads for 15 minutes before forming new groups. During these meetings, participants will present and demo their own hardware prototypes to each other, discussing the design process and any sustainability issues that arose during development. This format is designed to encourage maximum interaction among participants.
-
-#### Activity 3 Hands-on building Reflecting on the prototyping process by making a phone stabilizer (11:00-12:30). 
-
-In this activity, participants will be divided into groups of 4-5 people to conduct a hands-on mini-project: building a 2-axis phone camera gimbal. The organizers will provide each group with materials such as laser-cut acrylics, cardboard, Play-Doh, wire meshes, as well as basic crafting tools like scissors and hot glue. The goal is to encourage participants to reflect on this hands-on prototyping process and compare it with the more conventional digital prototyping processes they’re used to. Participants will be asked to document and reflect on their prototyping process in a shared document. The organizers will facilitate a 15-minute reflection session. Each group will discuss their workflow and any potential sustainability issues encountered during the prototyping phase.
-
-
-#### Activity 4 - Brainstorming: Sustainability challenges in making (13:30-15:00). 
-
-Reflecting on discussions from Activities 2 and 3, a brainstorming session will focus on challenges and opportunities for sustainable rapid prototyping. The audience will be divided into small groups, with each group having a set of prototypes from Activity 3 and a hypothetical tangible innovation project to facilitate the brainstorming. The design process, potential prototyping tools, and material waste will be suggested as the key discussion points. In the final 30 minutes, each group will present the identified sustainability challenges, as well as the design opportunities for sustainable making tools, systems, or practices.
-
-#### Activity 5: Brainstorming: Sustainability challenges beyond individual (15:00-16:00). 
-
-Participants will be reshuffled into new groups for this brainstorming session. The key discussion points will be on
-project management, material management, and how physical materials, components, or prototypes can be reused on a larger scale. Participants are encouraged to reflect on their own lab or project management experience. Each group will present their findings in the final 15 minutes.
-
-#### Activity 6: Summary and future plans (16:00-17:00). 
-
-As the final activity, all participants will come together to map out the future of sustainable prototyping. Discussion items will include: (1) the list of key challenges to address, (2) the list of potential technical directions to pursue, (3) the methods to evaluate new sustainable
-practices, and (4) the approaches to promote sustainable prototyping on a large scale.
-
-## Post-Workshop Plans
-We will prepare a webpage to document the discussions from the workshop. Distilled results may also be shared with the HCI community via a position article. We also plan to further build the community around sustainable making through the following mechanisms: 1) we will plan a new edition of this workshop either at CHI 2025 or at other venues such as the Dagstuhl seminar; 2) we will follow up with participants, seeking further online meetings and collaborations towards future research on this topic; 3) we may create monthly newsletters on recent research on this topic, sharing
-them with the participants and with the broader HCI and maker community.
+<span> </span>
 
 ## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
@@ -75,6 +59,25 @@ them with the participants and with the broader HCI and maker community.
   {% include people_horizontal.html name="Pedro Lopes" affiliation="University of Chicago" url="https://plopes.org/" img="assets/img/pedro.png" %}
   {% include people_horizontal.html name="Huaishu Peng" affiliation="University of Maryland" url="http://www.huaishu.me/" img="assets/img/huaishu.jpg" %}
 </div>
+#### Suggested Readings on Sustainable Making
+* Jasmine Lu, Beza Desta, K.D. Wu, Romain Nith, Joyce Passananti, and Pedro Lopes. 2023. ecoEDA: Recycling E-waste During Electronics Design. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (San Francisco, CA, USA) (UIST ’23).
+* Tingyu Cheng, Taylor Tabb, Jung Wook Park, Eric M Gallo, Aditi Maheshwari, Gregory D. Abowd, Hyunjoo Oh, and Andreea Danielescu. 2023. Functional Destruction: Utilizing Sustainable Materials’ Physical Transiency for Electronics Applications. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 366, 1–16. https://doi.org/10.1145/3544548.3580811
+* Michael L. Rivera, S. Sandra Bae, and Scott E. Hudson. 2023. Designing a Sustainable Material for 3D Printing with Spent Coffee Grounds. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 294–311. https://doi.org/10.1145/3563657.3595983
+* Marion Koelle, Madalina Nicolae, Aditya Shekhar Nittala, Marc Teyssier, and Jürgen Steimle. 2022. Prototyping Soft Devices with Interactive Bioplastics. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (UIST '22). Association for Computing Machinery, New York, NY, USA, Article 19, 1–16. https://doi.org/10.1145/3526113.3545623
+* Nivedita Arora, Vikram Iyer, Hyunjoo Oh, Gregory D. Abowd, and Josiah D. Hester. 2023. Circularity in Energy Harvesting Computational "Things". In Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys '22). Association for Computing Machinery, New York, NY, USA, 931–933. https://doi.org/10.1145/3560905.3568106
+* Ilan Mandel and Wendy Ju. 2023. Recapturing Product as Material Supply: Hover-boards as Garbatrage. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (Pittsburgh, PA, USA) (DIS ’23). Association for Computing Machinery, New York, NY, USA, 564–579. https://doi.org/10.1145/3563657.3596128
+* Katherine W Song, Aditi Maheshwari, Eric M Gallo, Andreea Danielescu, and Eric Paulos. 2022. Towards Decomposable Interactive Systems: Design of a Backyard-Degradable Wireless Heating Interface. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (New Orleans, LA, USA) (CHI ’22). Association for Computing Machinery, New York, NY, USA, Article 100, 12 pages. https://doi.org/10.1145/3491102.3502007
+* Katherine Wei Song and Eric Paulos. 2023. Vim: Customizable, Decomposable Electrical Energy Storage. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (Hamburg, Germany) (CHI ’23). Association for Computing Machinery, New York, NY, USA, Article 180, 18 pages. https://doi. org/10.1145/3544548.3581110
+* Ludwig Wilhelm Wall, Alec Jacobson, Daniel Vogel, and Oliver Schneider. 2021. Scrappy: Using scrap material as infill to make fabrication more sustainable. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (2021). https://doi.org/10.1145/3411764.3445187
+* Shanel Wu and Laura Devendorf. 2020. Unfabricate: Designing Smart Textiles for Disassembly. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (Honolulu, HI, USA) (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–14. https://doi.org/10.1145/3313831.3376227
+* Eldy S Lazaro Vasquez, Hao-Chuan Wang, and Katia Vega. 2020. Introducing the sustainable prototyping life cycle for digital fabrication to designers. In Proceedings of the 2020 ACM Designing Interactive Systems Conference. 1301–1312.
+* Sunyoung Kim and Eric Paulos. 2011. Practices in the Creative Reuse of E-Waste. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (Vancouver, BC, Canada) (CHI ’11). Association for Computing Machinery, New York, NY, USA, 2395–2404. https://doi.org/10.1145/1978942.1979292
+* Ollie Hanton, Zichao Shen, Mike Fraser, and Anne Roudaut. 2022. FabricatINK: Personal Fabrication of Bespoke Displays Using Electronic Ink from Upcycled E Readers. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (New Orleans, LA, USA) (CHI ’22). https://doi.org/10.1145/3491102.3501844
+* Eli Blevis. 2007. Sustainable interaction design: invention & disposal, renewal & reuse. In Proceedings of the SIGCHI conference on Human factors in computing systems. 503–512.}
+
+## Questions?
+Feel free to e-mail [us](mailto:zeyuy@umd.edu).
+
 
 <!-- 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
