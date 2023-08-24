@@ -59,7 +59,9 @@ The workshop will consist of keynotes, demos, hands-on building, and brainstormi
   {% include people_horizontal.html name="Pedro Lopes" affiliation="University of Chicago" url="https://plopes.org/" img="assets/img/pedro.png" %}
   {% include people_horizontal.html name="Huaishu Peng" affiliation="University of Maryland" url="http://www.huaishu.me/" img="assets/img/huaishu.jpg" %}
 </div>
+
 #### Suggested Readings on Sustainable Making
+
 * Jasmine Lu, Beza Desta, K.D. Wu, Romain Nith, Joyce Passananti, and Pedro Lopes. 2023. ecoEDA: Recycling E-waste During Electronics Design. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (San Francisco, CA, USA) (UIST ’23).
 * Tingyu Cheng, Taylor Tabb, Jung Wook Park, Eric M Gallo, Aditi Maheshwari, Gregory D. Abowd, Hyunjoo Oh, and Andreea Danielescu. 2023. Functional Destruction: Utilizing Sustainable Materials’ Physical Transiency for Electronics Applications. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23). Association for Computing Machinery, New York, NY, USA, Article 366, 1–16. https://doi.org/10.1145/3544548.3580811
 * Michael L. Rivera, S. Sandra Bae, and Scott E. Hudson. 2023. Designing a Sustainable Material for 3D Printing with Spent Coffee Grounds. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 294–311. https://doi.org/10.1145/3563657.3595983
@@ -74,6 +76,8 @@ The workshop will consist of keynotes, demos, hands-on building, and brainstormi
 * Sunyoung Kim and Eric Paulos. 2011. Practices in the Creative Reuse of E-Waste. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (Vancouver, BC, Canada) (CHI ’11). Association for Computing Machinery, New York, NY, USA, 2395–2404. https://doi.org/10.1145/1978942.1979292
 * Ollie Hanton, Zichao Shen, Mike Fraser, and Anne Roudaut. 2022. FabricatINK: Personal Fabrication of Bespoke Displays Using Electronic Ink from Upcycled E Readers. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (New Orleans, LA, USA) (CHI ’22). https://doi.org/10.1145/3491102.3501844
 * Eli Blevis. 2007. Sustainable interaction design: invention & disposal, renewal & reuse. In Proceedings of the SIGCHI conference on Human factors in computing systems. 503–512.}
+
+\* <i>Many more papers exist, not just in HCI, but also outside the traditional boundaries of interactive work, and this list is meant to inspire you to read these, search more, and engage with this topic.</i>
 
 ## Questions?
 Feel free to e-mail [us](mailto:zeyuy@umd.edu).
