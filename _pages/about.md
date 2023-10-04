@@ -51,6 +51,32 @@ The workshop will consist of keynotes, demos, hands-on building, and brainstormi
 
 <span> </span>
 
+## Keynote Speakers
+We are excited to announce our keynote speakers to our workshop: Gregory Abowd, Eric Paulos, and Kristin Williams.
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include keynote.html 
+  name="Gregory Abowd" 
+  affiliation="northeastern university" 
+  url="https://coe.northeastern.edu/people/abowd-gregory/" 
+  img="assets/img/abowd-g.jpg" 
+  bio="" %} 
+  
+  {% include keynote.html 
+  name="Eric Paulos" 
+  affiliation="UC Berkeley" 
+  url="http://www.paulos.net/" 
+  img="assets/img/paulos2.png" 
+  bio = ""
+%}
+
+  {% include keynote.html 
+  name="Kristin Williams" 
+  affiliation="Emory University" 
+  url="https://www.cs.emory.edu/~kwil271/" 
+  img="assets/img/williams-003.jpg"
+  bio="" %}
+</div>
+
 ## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Zeyu Yan" affiliation="University of Maryland" url="https://www.zeyuyan.com/" img="assets/img/zeyu.jpg" %}
