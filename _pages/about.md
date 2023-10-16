@@ -41,12 +41,15 @@ The workshop will consist of keynotes, demos, hands-on building, and brainstormi
 
 | Activity    | Time (PDT) |
 | -------- | ------- |
-| Opening & Keynotes  | 9:00-10:00   |
-| Speed-Networking Activity | 10:00-11:00     |
-| Collaborative Making Activity    | 11:00-12:30    |
+| Opening & Introduction  | 9:00-9:15   |
+| Keynotes  | 9:15-10:15   |
+| Coffee Break | 10:15-10:45     |
+| Discussion Panel with Keynote Speakers | 10:45-11:15 |
+| Brainstorm: Sustainability Challenges in Making    | 11:15-12:30    |
 | LUNCH BREAK    | 12:30-13:30    |
-| Brainstorm: Tools for sustainable making    | 13:30-15:00    |
-| Brainstorm: Sustainable making at scale   | 15:00-16:00    |
+| Collaborative Making Activity    | 13:30-14:30    |
+| Coffee Break | 14:30-15:00     |
+| Brainstorm: Tools and Future Technologies for Sustainable Making   | 15:00-16:00    |
 | Closing & Future Plans | 16:00-17:00    |
 
 <span> </span>
