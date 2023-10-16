@@ -1,19 +1,21 @@
-<div class="card-item col">  
-  <a href="{{ include.url | relative_url }}">  
+<div class="card mt-4">  
+  <!-- <a href="{{ include.url | relative_url }}">   -->
     <div class="card hoverable">
       <div class="row g-0">        
-        <div class="card-img col-sm-4" style="margin-left:2%; margin-top:2%" >
+        <div class="card-img col-sm-2 col-md-2" style="margin-left:2%; margin-top:2%" >
           {% include figure.html path=include.img alt=include.name %}
         </div>
-        <div class="col-sm-6">        
+        <div class="col-sm-6 col-md-8">        
           <div class="card-body">
-            <h5 class="card-title text-right">{{ include.name }}</h5>
-            <p class="card-text text-right">{{ include.affiliation }}</p>  
-            <p class="card-text text-right">{{ include.bio }}</p>
-            <p class="card-text text-right">{{ include.talk }}</p>                                                 
+            <h5 class="card-title text-left">{{ include.name }}</h5>
+            <h6 class="card-text text-left">{{ include.affiliation }}</h6> 
+            <h6 class="card-subtitle text-body-secondary" > Bio </h6>
+            <p class="card-text text-left">{{ include.bio }}</p>
+            <h6 class="card-subtitle text-body-secondary" > Abstract </h6>
+            <p class="card-text text-left">{{ include.talk }}</p>                                                 
           </div>
         </div>
       </div>
     </div>
-  </a>
+  <!-- </a> -->
 </div>
