@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sustainablemaking.umiacs.io/sitemap.xml
+Sitemap: zyyan20h.github.io/uist2023workshop/sitemap.xml
